@@ -1,5 +1,6 @@
-ENLACE VIDEO CONTEXTO GRUPO: https://www.youtube.com/watch?v=FfrXUTNh3lQ
-ENLACE INDIVIDUAL DUAL: https://www.youtube.com/watch?v=XVfCcizEyXc
+**ENLACE VIDEO CONTEXTO GRUPO:** https://www.youtube.com/watch?v=FfrXUTNh3lQ 
+
+**ENLACE VIDEO INDIVIDUAL DUAL:** https://www.youtube.com/watch?v=XVfCcizEyXc 
 
 # 🥖 Prácticas Duales — Panadería Confitería Salvador
 
