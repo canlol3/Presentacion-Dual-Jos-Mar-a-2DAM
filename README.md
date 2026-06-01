@@ -1,3 +1,6 @@
+ENLACE VIDEO CONTEXTO GRUPO: https://www.youtube.com/watch?v=FfrXUTNh3lQ
+ENLACE INDIVIDUAL DUAL: https://www.youtube.com/watch?v=XVfCcizEyXc
+
 # 🥖 Prácticas Duales — Panadería Confitería Salvador
 
 **Alumno:** José María López González  
@@ -17,13 +20,6 @@ Migración de una aplicación web interna desarrollada en **ASP clásico** a una
 - **Móvil:** Compilación nativa iOS/Android con Capacitor
 
 La aplicación controla la fabricación, el consumo de materias primas, las rutas de reparto y las compras de la panadería, integrada directamente con el ERP Sage.
-
----
-
-## 🗂️ Estructura del repositorio
-
-Este repositorio contiene el código del **cliente** (frontend Angular/Ionic).  
-El servidor (Node.js/Express) está en un repositorio separado.
 
 ---
 
